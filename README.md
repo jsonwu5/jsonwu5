@@ -1,7 +1,7 @@
 ### Hi there, I'm Jason Wu 👋
 Welcome to my GitHub profile! 🌟 Feel free to explore my projects and contributions. Happy coding! 🚀
 
-My blog：[乐呜瑞](https://jsonwu5.github.io/)
+My blog：[乐呜瑞](https://www.jsonwu.com)
 
 **Languages and Tools:**  
 
