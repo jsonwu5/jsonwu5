@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Jason Wu 👋
+Welcome to my GitHub profile! 🌟 Feel free to explore my projects and contributions. Happy coding! 🚀
 
-<!--
-**jsonwu5/jsonwu5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My blog：[乐呜瑞](https://jsonwu5.github.io/)
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+[![jsonwu5's github stats](https://github-readme-stats.vercel.app/api?username=jsonwu5)](https://github.com/anuraghazra/github-readme-stats)
